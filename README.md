@@ -1,9 +1,10 @@
-# Last War Bot Türkçe — Last War: Survival PC Botu
+# Last War Bot – Türkçe Otomatik Bot (Windows)
 
 **Last War Botu**, Last War: Survival için tamamen Türkçe arayüzlü bir PC otomasyon botudur. Windows 10/11'de oyunun resmî PC istemcisiyle çalışır, emülatör gerekmez.
 
-👉 **Site ve 3 gün ücretsiz deneme:** https://lastwarbotu.com
-▶️ **Tanıtım videosu (2:38):** https://www.youtube.com/watch?v=fxu2lA_1L3M
+👉 **Site ve 15 gün ücretsiz deneme:** https://lastwarbotu.com
+⬇️ **İndirme ve kurulum:** https://lastwarbotu.com/last-war-bot-indir/
+▶️ **Tanıtım videosu (2:33):** https://lastwarbotu.com/#video-baslik
 
 ![Last War Bot Türkçe](https://lastwarbotu.com/img/tanitim/lastwarbotu-1-kapak.jpg)
 
@@ -17,6 +18,7 @@
 | Görev | Radar görevleri, günlük görevler, posta ve görev ödülleri |
 | İttifak | İttifak yardımı, hediyeler, altınla teknoloji bağışı, ralli katılımı |
 | Kahraman | Kahraman gelişimi, hikâye savaşları (Önerilen Güç denetimi: kazanamayacağı savaşa girmez) |
+| Tam otomatik | Tek düğmeyle tam otomatik gelişim: bina, araştırma, kahraman, sandık, ödül, görev ve maden (elmas/satın alma yok) ([ayrıntı](https://lastwarbotu.com/last-war-otomatik-bot/)) |
 | Kontrol | Telegram'dan uzaktan kontrol, zamanlayıcı, otomatik güncelleme |
 
 ![Özellikler](https://lastwarbotu.com/img/tanitim/lastwarbotu-2-ozellikler.jpg)
@@ -31,9 +33,13 @@ Ayrıntılar: [Özellikler](https://lastwarbotu.com/ozellikler/) · [Kurulum](ht
 
 ![Panel](https://lastwarbotu.com/img/tanitim/lastwarbotu-3-panel.jpg)
 
+## Güç testi
+
+Test hesabında tam otomatik gelişimle güç yaklaşık 735 binden ~1,4 milyona çıktı. Sonuç hesaba ve oyun süresine göre değişir, garanti değildir.
+
 ## Fiyat ve deneme
 
-- 3 gün ücretsiz deneme
+- 15 gün ücretsiz deneme
 - Aylık: 599 TL · Ömür boyu: 3.999 TL
 - Lisans ve destek: WhatsApp 0538 054 55 53 — [Fiyatlar](https://lastwarbotu.com/fiyatlar/)
 
@@ -48,6 +54,7 @@ Bu depo yalnızca Last War Botu sürüm dosyalarını (Windows paketi) barındı
 - [Last War en iyi kahramanlar](https://lastwarbotu.com/blog/last-war-en-iyi-kahramanlar/)
 - [Last War güç arttırma](https://lastwarbotu.com/blog/last-war-guc-arttirma/)
 - [Last War PC'de nasıl oynanır?](https://lastwarbotu.com/last-war-pc/)
+- [Last War bot makro rehberi](https://lastwarbotu.com/blog/last-war-bot-makro-rehberi/)
 
 ---
 Last War Botu bağımsız bir üçüncü taraf araçtır; Last War: Survival ve yapımcısıyla bağlantılı değildir.
