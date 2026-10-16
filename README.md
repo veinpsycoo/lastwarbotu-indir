@@ -40,7 +40,7 @@ Test hesabında tam otomatik gelişimle güç yaklaşık 735 binden ~1,4 milyona
 ## Fiyat ve deneme
 
 - 15 gün ücretsiz deneme
-- Aylık: 599 TL · Ömür boyu: 3.999 TL
+- Aylık: 399 TL · Ömür boyu: 3.999 TL
 - Lisans ve destek: WhatsApp 0538 054 55 53 — [Fiyatlar](https://lastwarbotu.com/fiyatlar/)
 
 ## Bu depo
